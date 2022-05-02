@@ -1,9 +1,9 @@
-body {background-color:black;font-family:arial;color:white}
+body {background-color:white;font-family:arial;color:black}
 h1{color:gray;}
 
 .maindiv{
-    background-color: dark;
-    color: white;
+    background-color: white;
+    color: black;
     padding: 20px;
     width: 300px;
     border-radius: 25px;
