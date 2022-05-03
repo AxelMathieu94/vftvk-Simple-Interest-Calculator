@@ -3,7 +3,7 @@ function updateRate(){
     document.getElementById("rate_val").innerText = rate;
 }
 
-function compute() {
+function Compute() {
     var principal = document.getElementById("principal").value;
     var rate = document.getElementById("rate").value;
     var years = document.getElementById("years").value;
